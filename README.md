@@ -21,4 +21,4 @@ algunos de estos no fueron utilizados
 para ejecutar el juego es necesaria lainstalación de las librerias pygame y pyvidplayer2 para el juego en general y para la
 "cinematica" de inicio respectivamente
 
-![Screenshot_2024-06-19-01-57-10_1920x1080](https://github.com/user-attachments/assets/25851516-d4fd-4be0-90aa-ede4082b8b37)
+![Screenshot_2024-06-14-20-59-13_1920x1080](https://github.com/user-attachments/assets/938df107-0a91-41bd-9d00-0934d80cab14)
