@@ -18,7 +18,7 @@ algunos de estos no fueron utilizados
 
 # uso
 
-para ejecutar el juego es necesaria lainstalación de las librerias pygame y pyvidplayer2 para el juego en general y para la
+para ejecutar el juego es necesaria la instalación de las librerias pygame y pyvidplayer2 para el juego en general y para la
 "cinematica" de inicio respectivamente
 
 ![Screenshot_2024-06-14-20-59-13_1920x1080](https://github.com/user-attachments/assets/938df107-0a91-41bd-9d00-0934d80cab14)
